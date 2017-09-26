@@ -1,0 +1,25 @@
+{
+  "name": "cfcmimg",
+  "version": "0.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cfcm",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ylws/imgupload.git"
+  },
+  "keywords": [
+    "vue",
+    "win"
+  ],
+  "bugs": {
+    "url": "https://github.com/ylws/imgupload/issues"
+  },
+  "homepage": "https://github.com/ylws/imgupload#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
